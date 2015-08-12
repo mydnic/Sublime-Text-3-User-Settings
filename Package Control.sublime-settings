@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Emmet",
+		"Emmet Css Snippets",
+		"jQuery",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"PHP Companion",
+		"SCSS",
+		"SCSS Snippets",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jsl",
+		"SublimeLinter-php",
+		"SublimeTmpl"
+	]
+}
