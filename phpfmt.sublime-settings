@@ -1,0 +1,6 @@
+{
+	"php55compat": true,
+	"psr2": true,
+	"version": 1,
+    "enable_auto_align": true
+}
