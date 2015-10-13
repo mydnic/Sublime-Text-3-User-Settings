@@ -1,12 +1,10 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"Alignment",
+		"AngularJS",
 		"ApacheConf.tmLanguage",
 		"AutoFileName",
 		"Blade Snippets",
