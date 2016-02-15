@@ -24,6 +24,7 @@
 		"Laravel 5 Snippets",
 		"Laravel Blade Highlighter",
 		"Markdown Preview",
+		"Material Theme",
 		"Minifier",
 		"Package Control",
 		"PHP Companion",
@@ -32,10 +33,12 @@
 		"SCSS Snippets",
 		"SFTP",
 		"SideBarEnhancements",
+		"Smarty",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jsl",
 		"SublimeLinter-php",
-		"SublimeTmpl"
+		"SublimeTmpl",
+		"TypeScript"
 	]
 }
