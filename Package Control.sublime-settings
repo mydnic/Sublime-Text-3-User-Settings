@@ -2,11 +2,13 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"SublimeCodeIntel"
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"Alignment",
+		"All Autocomplete",
 		"AngularJS",
 		"ApacheConf.tmLanguage",
 		"AutoFileName",
