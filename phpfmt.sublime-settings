@@ -1,5 +1,5 @@
 {
-	"enable_auto_align": true,
+	"enable_auto_align": false,
 	"format_on_save": false,
 	"php55compat": true,
 	"psr2": true,
