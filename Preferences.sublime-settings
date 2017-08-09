@@ -5,8 +5,12 @@
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"findreplace_small": true,
-	"font_size": 9,
+	"font_size": 10,
 	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"line_padding_bottom": 7,
 	"line_padding_top": 7,
 	"overlay_scroll_bars": "enabled",
@@ -16,5 +20,6 @@
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"font_face": "Roboto Mono"
 }
