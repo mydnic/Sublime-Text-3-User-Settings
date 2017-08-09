@@ -1,5 +1,8 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -9,7 +12,6 @@
 		"Blade Snippets",
 		"BracketHighlighter",
 		"CloseOtherWindows",
-		"DocBlockr",
 		"Emmet",
 		"Emmet Css Snippets",
 		"Icon Fonts",
@@ -21,20 +23,18 @@
 		"Laravel Blade Highlighter",
 		"Markdown Preview",
 		"Material Theme",
-		"Minifier",
 		"Package Control",
 		"PHP Companion",
-		"phpfmt",
+		"ProjectManager",
 		"SCSS",
 		"SCSS Snippets",
 		"SFTP",
 		"SideBarEnhancements",
-		"Smarty",
+		"SnippetMaker",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jsl",
 		"SublimeLinter-php",
-		"SublimeTmpl",
 		"Vue Syntax Highlight",
 		"Vuejs Snippets"
 	]
