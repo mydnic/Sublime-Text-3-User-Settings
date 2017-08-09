@@ -21,5 +21,6 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false,
-	"font_face": "Roboto Mono"
+	"font_face": "Roboto Mono",
+	"save_on_focus_lost": true
 }
