@@ -7,7 +7,6 @@
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
-		"ApacheConf.tmLanguage",
 		"AutoFileName",
 		"Blade Snippets",
 		"BracketHighlighter",
@@ -17,7 +16,6 @@
 		"Icon Fonts",
 		"Increment Selection",
 		"jQuery",
-		"JSHint Gutter",
 		"Laravel 5 Artisan",
 		"Laravel 5 Snippets",
 		"Laravel Blade Highlighter",
@@ -25,16 +23,11 @@
 		"Material Theme",
 		"Package Control",
 		"PHP Companion",
-		"ProjectManager",
 		"SCSS",
 		"SCSS Snippets",
 		"SFTP",
 		"SideBarEnhancements",
 		"SnippetMaker",
-		"SublimeLinter",
-		"SublimeLinter-csslint",
-		"SublimeLinter-jsl",
-		"SublimeLinter-php",
 		"Vue Syntax Highlight",
 		"Vuejs Snippets"
 	]
