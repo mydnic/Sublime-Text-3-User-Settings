@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"AutoFileName",
@@ -13,13 +14,10 @@
 		"CloseOtherWindows",
 		"Emmet",
 		"Emmet Css Snippets",
-		"Icon Fonts",
 		"Increment Selection",
 		"jQuery",
-		"Laravel 5 Artisan",
 		"Laravel 5 Snippets",
 		"Laravel Blade Highlighter",
-		"Markdown Preview",
 		"Material Theme",
 		"Package Control",
 		"PHP Companion",
