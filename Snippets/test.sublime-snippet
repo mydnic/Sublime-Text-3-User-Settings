@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+/** @test */
+function $1()
+{
+    $2
+}]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>test</tabTrigger>
+    <!-- Optional: Description to show in the menu -->
+    <description>test phpunit</description>
+</snippet>
